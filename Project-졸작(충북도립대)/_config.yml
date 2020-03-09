@@ -88,3 +88,6 @@ exclude:
   - package.json
   - spec
   - tmp
+
+
+remote_theme : mmistakes/minimal-mistakes
